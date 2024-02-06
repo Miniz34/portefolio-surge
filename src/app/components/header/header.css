@@ -1,0 +1,17 @@
+.header-main {
+  background-color: green;
+  height: 250px;
+  border-bottom: solid red 2px;
+}
+
+.header-container {
+  display: flex;
+  justify-content: space-between;
+  padding: 25px;
+}
+
+ul {
+  list-style: none;
+  display: flex;
+  gap: 15px;
+}
